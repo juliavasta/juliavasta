@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Julia
 
-I'm a Frontend Developer who loves to learn. Passionate about programming, design, crypto, and tech. 
+I'm a Frontend Developer who loves to learn. Passionate about programming, design, crypto, and tech.
+<br /> 
 I mainly work with ReactJs, building modern and scalable web applications, using the latest technologies and best practices. 
 
 I am a self taught, constantly acquiring new skills and knowledge.
