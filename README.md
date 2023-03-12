@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Julia
 
-I'm a Software Developer who loves to learn. Passionate about programming, design, crypto, and tech.
+I'm a Software Developer who loves to learn. Passionate about programming and design.
 <br /> 
-I mainly work with ReactJs, building modern and scalable web applications, using the latest technologies and best practices. 
+I mainly work with ReactJs, building innovative and user-friendly websites and web applications, using the latest technologies and best practices. 
 
-I am a self taught, constantly acquiring new skills and knowledge.
+I'm curious and self taught, constantly acquiring new skills and knowledge.
 <br /> 
 
 ### Languages and tools 
