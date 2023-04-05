@@ -27,6 +27,14 @@ I'm curious and self taught, constantly acquiring new skills and knowledge.
  <a href="https://github.com/juliavasta/Rickandmorty-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliavasta&repo=Rickandmorty-api&theme=tokyonight" />
  </a>
+ 
+ <a href="https://github.com/juliavasta/react-table-searchbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliavasta&repo=react-table-searchbar&theme=tokyonight" />
+ </a>
+ 
+ <a href="https://github.com/juliavasta/todo-list-inline-edit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliavasta&repo=todo-list-inline-edit&theme=tokyonight" />
+ </a>
 
 <!--
 **juliavasta/juliavasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
