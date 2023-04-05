@@ -14,7 +14,7 @@ I'm curious and self taught, constantly acquiring new skills and knowledge.
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"></code>
 <br />
 
-### My main projects 👩🏻‍💻
+### Main projects 👩🏻‍💻
 
 <a href="https://github.com/juliavasta/Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juliavasta&repo=Ecommerce&theme=tokyonight" />
