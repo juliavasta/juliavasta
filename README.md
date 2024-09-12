@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Julia
 
-I'm a Software Developer who loves to learn. Passionate about programming and design.
+I'm a Software Developer and UI/UX designer who loves to learn. Passionate about programming and design.
 <br /> 
 I mainly work with ReactJs, building innovative and user-friendly websites and web applications, using the latest technologies and best practices. 
 
